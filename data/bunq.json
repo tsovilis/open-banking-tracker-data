@@ -17,6 +17,10 @@
       "regulation": "PSD2",
       "status": "inProgress"
     }
+    { 
+      "regulation": "OB",
+      "status": "ready"
+    }
   ],
   "sandbox": {
     "status": "available"
